@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm Rohan from India, and do Design and Develop web application. I really enjoy learning technology and frameworks like Cloud Native Development ,React and React Native. I also enjoy wireframing, ui and design in general. You can check out Linkdin at https://www.linkedin.com/in/rohanmathewalex/ or https://twitter.com/RohanMathewAle2.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanmathewalex)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **rohanmathewalex/rohanmathewalex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
