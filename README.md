@@ -6,9 +6,11 @@ I'm Rohan from India, I  Design and Develop  web application. I enjoy learning t
 
 ## Skills and Experience
 * ⚛️ React
-* 💻 HTML, CSS, SASS,BOOTSTRAP 4, JS
+* 💻 HTML, CSS, SASS,BOOTSTRAP 4, JS, NODEJS, EXPRESS JS, MONGODB
+*  
+* ☁️ Native Cloud 
 
-Skills: Cloud Native/ REACT / JS / HTML / CSS/SaSS/Node/Express/MongoDb
+ 
 
 - 🔭 I’m currently working on My own Company 
 - 🌱 I’m currently learning Full stack Cloud Native Development  
