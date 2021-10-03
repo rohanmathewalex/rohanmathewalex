@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Rohan Mathew Alex
 #### Full Stack Developer
-![Full Stack Developer](https://github.com/rohanmathewalex/rohanmathewalex/blob/main/cover%20photo%20(3).png)
+![Full Stack Developer](https://github.com/rohanmathewalex/rohanmathewalex/commit/3ba120f47235815a136b08f2d43977a8de78dffb)
 
 I'm Rohan from India, I  Design and Develop  web application. I enjoy learning technologies and frameworks like Cloud-Native Development, React and React Native. I also enjoy wireframing, UI and design in general. You can check out LinkedIn at https://www.linkedin.com/in/rohanmathewalex/ or https://twitter.com/RohanMathewAle2.
 
