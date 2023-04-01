@@ -20,7 +20,7 @@ I write clean, efficient, and maintainable code, Implement front-end and back-en
 
 
 ## Freelance Works 🌳🍃💻👩‍💻
- 
+* [Zielteq](https://zielteq.com/)
 * [Axel Cruz Exports](https://www.axelcruzexports.com/)
 * [GreenX UAE](https://greenxuae.com/)
 * [Goldstar Eagle](https://goldstareagle.com)
@@ -29,7 +29,8 @@ I write clean, efficient, and maintainable code, Implement front-end and back-en
 * [T3 Adventz](https://t3adventz.com/)
 * [Boosraexim](https://boosraexim.com/)
 * [SOULFUL PERFUMERY](http://www.soulfulperfumery.com/)
-* [LocalHiveProject](https://localhiveproject.com/)
+* [LocalHiveProject](https://localhiveproject.com/) 
+
  
 
 - 🔭 I’m currently working on [My own Company](https://www.mediagod.in/) 
