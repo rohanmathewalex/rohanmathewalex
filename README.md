@@ -2,7 +2,7 @@
 #### Full Stack Developer
 ![Full Stack Developer](https://github.com/rohanmathewalex/rohanmathewalex/blob/main/cover%20-picture%20(1).png)
 
-I'm Rohan from India, As a freelance JavaScript web developer, I would be responsible for designing, building, and maintaining web applications using JavaScript and related technologies. This may include tasks such as:
+I'm Rohan , As a freelance JavaScript web developer, I would be responsible for designing, building, and maintaining web applications using JavaScript and related technologies. This may include tasks such as:
 I write clean, efficient, and maintainable code, Implement front-end and back-end features, Collaborate with a team, or work independently to meet project deadlines. I am staying up to date with new technologies and best practices in web development.In addition to solid programming skills,  I have experience with HTML, CSS, and web development frameworks like Node.js and Express.js. I have strong problem-solving and communication skills, as well as the ability to work independently or as part of a team. As a freelance developer, I also need to be comfortable managing own time and projects, and have the ability to meet deadlines and deliver high-quality work. You can check out LinkedIn at https://www.linkedin.com/in/rohanmathewalex/ or https://twitter.com/RohanMathewAle2.
 
 ## Skills and Experience
