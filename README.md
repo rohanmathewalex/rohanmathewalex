@@ -2,8 +2,8 @@
 #### Full Stack Developer
 ![Full Stack Developer](https://github.com/rohanmathewalex/rohanmathewalex/blob/main/cover%20-picture%20(1).png)
 
-I'm Rohan , As a freelance JavaScript web developer, I would be responsible for designing, building, and maintaining web applications using JavaScript and related technologies. This may include tasks such as:
-I write clean, efficient, and maintainable code, Implement front-end and back-end features, Collaborate with a team, or work independently to meet project deadlines. I am staying up to date with new technologies and best practices in web development.In addition to solid programming skills,  I have experience with HTML, CSS, and web development frameworks like Node.js and Express.js. I have strong problem-solving and communication skills, as well as the ability to work independently or as part of a team. As a freelance developer, I also need to be comfortable managing own time and projects, and have the ability to meet deadlines and deliver high-quality work. You can check out LinkedIn at https://www.linkedin.com/in/rohanmathewalex/ or https://twitter.com/RohanMathewAle2.
+I'm Rohan , As a JavaScript web developer, I would be responsible for designing, building, and maintaining web applications using JavaScript and related technologies. This may include tasks such as:
+I write clean, efficient, and maintainable code, Implement front-end and back-end features, Collaborate with a team, or work independently to meet project deadlines. I am staying updated with new technologies and best practices in web development. In addition to solid programming skills,  I have experience with HTML, CSS, and web development frameworks like Node.js and Express.js. I have strong problem-solving and communication skills and the ability to work independently or as part of a team. As a freelance developer, I also need to be comfortable managing my own time and projects and have the ability to meet deadlines and deliver high-quality work. You can check out LinkedIn at https://www.linkedin.com/in/rohanmathewalex/ or https://twitter.com/RohanMathewAle2.
 
 ## Skills and Experience
 * ⚛️ React
@@ -17,6 +17,12 @@ I write clean, efficient, and maintainable code, Implement front-end and back-en
 * HORUKI-CLOUD-SOLUTION
      Horuki is fake cloud hosting website using css grid and flex. In this project i have showcased how ways can we create more complex layout using grid and flexbox.
      [Live preview](https://upbeat-knuth-100715.netlify.app)
+
+
+  
+## Weekend Projects 🌳🍃💻👩‍💻
+[DineDirect]([https://zielteq.com/](http://admin.dinedirect.in/#/dinedirect/login)) 
+
 
 
 ## Freelance Works 🌳🍃💻👩‍💻
