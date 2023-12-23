@@ -30,12 +30,29 @@ A budget app that calculates financial status and provides insights into expense
 - IBM Online - IBM Full Stack Developer Certification (In Progress)
 
 ## Learning and Development
-I'm actively engaged in ongoing learning through courses, workshops, and hands-on projects. I'm eager to enhance my skills and contribute meaningfully to collaborative development environments.
+I actively engage in ongoing learning through courses, workshops, and hands-on projects. I'm eager to enhance my skills and contribute meaningfully to collaborative development environments.
 
 ## Major Achievements
 ### [DineDirect](http://dinedirect.in/)
 Successfully contributed to the development of DineDirect, a project I'm particularly proud of.
 
+### Work Experience
+
+#### [MEDIAGOD](https://www.mediagod.in/) - Kochi, India
+- **Position:** Web Developer
+- **Duration:** Nov 2021 – Dec 2022
+  - Developed large-scale JavaScript applications using React JS, achieving a 25% improvement in page load times.
+  - Integrated Stripe and PayPal payment gateways, contributing to a 20% surge in successful transactions.
+  - Employed Node.js and Express.js for REST API creation, facilitating efficient data exchange and resulting in a 30% reduction in data processing time.
+  - Constructed backend REST APIs (Node.js) and OAuth for secure authentication and authorization.
+
+#### T3 Adventz - Malappuram, India
+- **Position:** Junior Web Developer
+- **Duration:** Jul 2020 – Aug 2021
+  - Designed and implemented CSS templates, enhancing website aesthetics and achieving a 20% improvement in user satisfaction.
+  - Spearheaded Full Stack Development projects using React and Node.js, ensuring seamless integration of modern technologies.
+  - Developed and maintained API Gateways to ensure efficient communication and data exchange.
+  - 
 ## Freelance Works
 - [Regaincare](https://regaincare.co.uk/)
 - [Zielteq](https://zielteq.com/)
