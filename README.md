@@ -31,6 +31,7 @@ As a freelance developer, I am comfortable managing my own time and projects, en
 [DineDirect](http://dinedirect.in/)
 
 ## Freelance Works 🌳🍃💻👩‍💻
+* [Regaincare](https://regaincare.co.uk/)
 * [Zielteq](https://zielteq.com/)
 * [Axel Cruz Exports](https://www.axelcruzexports.com/)
 * [GreenX UAE](https://greenxuae.com/)
