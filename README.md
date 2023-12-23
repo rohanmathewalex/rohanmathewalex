@@ -46,8 +46,8 @@ As a freelance developer, I am comfortable managing my own time and projects, en
 * [SOULFUL PERFUMERY](http://www.soulfulperfumery.com/)
 * [LocalHiveProject](https://localhiveproject.com/) 
 
-## Certification
-* IBM Online - IBM Full Stack Developer Certification (In Progress)
+
+ 
 
 - 🔭 I’m currently working on [My own Company](https://www.mediagod.in/) 
 - 🌱 I’m currently learning Full stack Cloud Native Development  
