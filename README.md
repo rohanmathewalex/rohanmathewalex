@@ -13,6 +13,9 @@ In addition to solid programming skills, I have experience with HTML, CSS, and w
 
 As a freelance developer, I am comfortable managing my own time and projects, ensuring timely delivery of high-quality work. Check out my [LinkedIn](https://www.linkedin.com/in/rohanmathewalex/) or [Twitter](https://twitter.com/RohanMathewAle2) for more.
 
+## Certification
+* IBM Online - IBM Full Stack Developer Certification (In Progress)
+
 ## Skills and Experience
 * ⚛️ React
 * 💻 HTML, CSS, SASS, BOOTSTRAP 4, JS, NODEJS, EXPRESS JS, MONGODB
