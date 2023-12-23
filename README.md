@@ -27,8 +27,8 @@ As a freelance developer, I am comfortable managing my own time and projects, en
   Horuki is a fake cloud hosting website showcasing complex layouts using CSS Grid and Flexbox.  
   [Live Preview](https://upbeat-knuth-100715.netlify.app)
 
-## Weekend Projects 🌳🍃💻👩‍💻
-[DineDirect](https://zielteq.com/)
+## Major Achievements 🌳🍃💻👩‍💻
+[DineDirect](http://dinedirect.in/)
 
 ## Freelance Works 🌳🍃💻👩‍💻
 * [Zielteq](https://zielteq.com/)
