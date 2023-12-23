@@ -4,7 +4,7 @@ As an enthusiastic junior developer, I'm passionate about web development and ex
 
 ## Skills and Experience
 - **Languages & Frameworks:** JavaScript (React), HTML, CSS, Express, Nodejs, MongoDB, GraphQl
-- **Tools & Technologies:** Git/GitHub
+- **Tools & Technologies:** Git/GitHub, POSTMAN
 
 ## API Development with Node.js
 I specialize in designing and implementing robust APIs using Node.js. Here's a deeper look at my skills and experience:
