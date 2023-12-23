@@ -6,6 +6,16 @@ As an enthusiastic junior developer, I'm passionate about web development and ex
 - **Languages & Frameworks:** JavaScript (React), HTML, CSS, Express, Nodejs, MongoDB, GraphQl
 - **Tools & Technologies:** Git/GitHub
 
+## API Development with Node.js
+I specialize in designing and implementing robust APIs using Node.js. Here's a deeper look at my skills and experience:
+
+### Skills and Technologies
+- **Node.js:** Proficient in building scalable and efficient server-side applications.
+- **Express.js:** Experienced in creating RESTful APIs with Express.js.
+- **Middleware:** Utilize middleware for request processing, authentication, and error handling.
+- **Data Validation:** Implement data validation techniques to ensure data integrity.
+- **Error Handling:** Expertise in handling errors gracefully to enhance application reliability.
+
 ## Projects Showcase
 ### [Ontario Book DriveTest](https://github.com/rohanmathewalex/ontario-book-driveTest)
 A web app enables users to book g-test date appointments online easily. Tech stack: HTML, CSS, EJS, Node.js, Express, MongoDB.
