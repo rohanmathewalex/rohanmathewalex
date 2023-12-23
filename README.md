@@ -3,12 +3,12 @@
 As an enthusiastic junior developer, I'm passionate about web development and excited to contribute to innovative projects. Here's a glimpse of what I bring to the table:
 
 ## Skills and Experience
-- **Languages:** JavaScript (React), HTML, CSS
+- **Languages & Frameworks:** JavaScript (React), HTML, CSS, Express, Nodejs, MongoDB, GraphQl
 - **Tools & Technologies:** Git/GitHub
 
 ## Projects Showcase
 ### [Ontario Book DriveTest](https://github.com/rohanmathewalex/ontario-book-driveTest)
-A web app enabling users to easily book g-test date appointments online. Tech stack: HTML, CSS, EJS, Node.js, Express, MongoDB.
+A web app enables users to book g-test date appointments online easily. Tech stack: HTML, CSS, EJS, Node.js, Express, MongoDB.
 
 ### [Task Link](https://github.com/rohanmathewalex/TaskLink)
 A project management web app built with React, Node.js, Express, GraphQL, Apollo, and MongoDB.
