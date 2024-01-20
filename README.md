@@ -12,6 +12,8 @@ I specialize in designing and implementing robust APIs using Node.js. Here's a d
 ### Skills and Technologies
 - **Node.js:** Proficient in building scalable and efficient server-side applications.
 - **Express.js:** Experienced in creating RESTful APIs with Express.js.
+- **React:** Skilled in developing dynamic and responsive user interfaces using React.
+- **TypeScript:** Proficient in using TypeScript to enhance code quality and developer productivity.
 - **Middleware:** Utilize middleware for request processing, authentication, and error handling.
 - **Data Validation:** Implement data validation techniques to ensure data integrity.
 - **Error Handling:** Expertise in handling errors gracefully to enhance application reliability.
