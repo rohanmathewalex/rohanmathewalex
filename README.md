@@ -14,6 +14,10 @@ I specialize in designing and implementing robust APIs using Node.js. Here's a d
 - **Express.js:** Experienced in creating RESTful APIs with Express.js.
 - **React:** Skilled in developing dynamic and responsive user interfaces using React.
 - **TypeScript:** Proficient in using TypeScript to enhance code quality and developer productivity.
+- **AWS:** Familiar with Amazon Web Services (AWS) cloud platform.
+- **EC2:** Experience in deploying and managing applications on Amazon EC2 instances.
+- **Lambda:** Proficient in using AWS Lambda functions for serverless computing.
+- **S3:** Skilled in utilizing Amazon S3 for scalable and secure storage.
 - **Middleware:** Utilize middleware for request processing, authentication, and error handling.
 - **Data Validation:** Implement data validation techniques to ensure data integrity.
 - **Error Handling:** Expertise in handling errors gracefully to enhance application reliability.
