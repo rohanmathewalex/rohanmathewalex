@@ -29,6 +29,26 @@ A budget app that calculates financial status and provides insights into expense
 ### [Task Tracker](https://github.com/rohanmathewalex/task-tracker/tree/main/react-task-tracker)
 This tracking app lets you add or delete your upcoming tasks and set reminders. This app was built using react. I have used JSON-server to mock the backend in real life. We can add tasks, delete tasks, and fetch data from the backend using JSON-server.
 
+### [whatsapp-ordering-application](https://github.com/rohanmathewalex/whatsapp-ordering-application)
+The WhatsApp Ordering Application is an e-commerce website designed and developed to cater to small-scale businesses looking for a simplified online ordering system. Below is an overview of this application:
+- **Tech Stack:**
+  - **Frontend:** HTML, CSS, EJS, JavaScript
+  - **Backend:** Node.js
+  - **Database:** MongoDB
+
+- **Key Features:**
+  - **User-friendly Interface:** The application provides an intuitive and easy-to-navigate interface for users to explore products and place orders seamlessly.
+  - **WhatsApp Integration:** Orders are conveniently placed directly to the business owner's WhatsApp account, streamlining the communication process.
+  - **Product Catalog:** Showcase products with details, enabling customers to make informed purchasing decisions.
+  - **Order Management:** Efficiently manage and track incoming orders through the integrated WhatsApp system.
+  - **Scalable for Small Businesses:** Tailored for small-scale businesses to easily implement an online ordering solution.
+
+- **How It Works:**
+  1. Users browse the product catalog on the website.
+  2. Customers select desired items and proceed to place orders.
+  3. Orders are sent directly to the business owner's WhatsApp account for quick and personalized communication.
+  4. Business owners can manage and fulfill orders directly through WhatsApp.
+
 ### [Forkify](https://github.com/rohanmathewalex/Forkify)
 Forkify is a search app built using ES6 JavaScript. In this app, users get 1000+ recipes. The feature currently built is that the use can search for recipes and ADD the ingredients into the shopping cart. Also, users can add recipes to their favorites.
 
