@@ -41,6 +41,19 @@ I actively engage in ongoing learning through courses, workshops, and hands-on p
 ## Major Achievements
 ### [DineDirect](http://dinedirect.in/)
 Successfully contributed to the development of DineDirect, a project I'm particularly proud of.
+- **Tech Stack:**
+  - **Frontend:** HTML, CSS, JavaScript (React)
+  - **Backend:** Node.js, Express.js
+  - **Database:** MongoDB
+  - **Payment Integration:** Stripe
+  
+- **Key Features:**
+  - **Online Ordering:** Seamless and user-friendly interface for customers to browse menus, place orders, and make secure payments.
+  - **Inventory Management:** Implemented APIs for efficient restaurant inventory management.
+  - **Vendor Collaboration:** Facilitated vendor collaboration for a streamlined business process.
+  - **PDF Invoice Generation:** Automated the generation of PDF invoices for better record-keeping.
+  - **Stripe Payment Gateway:** Integrated Stripe to enhance customer experience and ensure secure transactions with a 20% surge in successful transactions.
+  - **GraphQL APIs:** Implemented GraphQL APIs, reducing query response time by 30%.
 
 ### Work Experience
 
