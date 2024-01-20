@@ -26,6 +26,12 @@ A project management web app built with React, Node.js, Express, GraphQL, Apollo
 ### [Budget Tracker](https://frosty-mcnulty-8444f5.netlify.app/)
 A budget app that calculates financial status and provides insights into expenses.
 
+### [Task Tracker](https://github.com/rohanmathewalex/task-tracker/tree/main/react-task-tracker)
+This tracking app lets you add or delete your upcoming tasks and set reminders. This app was built using react. I have used JSON-server to mock the backend in real life. We can add tasks, delete tasks, and fetch data from the backend using JSON-server.
+
+###[Forkify](https://github.com/rohanmathewalex/Forkify)
+Forkify is a search app built using ES6 JavaScript. In this app, users get 1000+ recipes. The feature currently built is that the use can search for recipes and ADD the ingredients into the shopping cart. Also, users can add recipes to their favorites.
+
 ## Certification
 - IBM Online - IBM Full Stack Developer Certification (In Progress)
 
