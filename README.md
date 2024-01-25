@@ -1,4 +1,4 @@
-# Hello there! 👋 I'm Rohan Mathew Alex, a Junior Full Stack Developer
+# Hello there! 👋 I'm Rohan Mathew Alex, a Full Stack Developer
 
 As an enthusiastic junior developer, I'm passionate about web development and excited to contribute to innovative projects. Here's a glimpse of what I bring to the table:
 
@@ -112,6 +112,6 @@ Successfully contributed to the development of DineDirect, a project I'm particu
 - [LocalHiveProject](https://localhiveproject.com/) 
 
 ## Let's Connect!
-I'm currently working on my own venture at [My Own Company](https://www.mediagod.in/) and learning about full-stack cloud-native development. Reach out to me at iamrohanmathewalex@gmail.com, and let's connect on [LinkedIn](https://www.linkedin.com/in/rohanmathewalex/)!
+I'm a dedicated full-stack developer with a strong passion for crafting web applications. Proficient in building dynamic and user-centric solutions using the MERN (MongoDB, Express.js, React.js, Node.js) stack, GraphQL, and TypeScript. I thrive on continuous learning and am driven by the opportunity to collaborate in fast-paced software development environments. Suppose you're looking for a versatile developer with a knack for creating efficient and responsive web experiences. In that case, I'd love to connect and discuss how I can contribute to your projects. Contact me at iamrohanmathewalex@gmail.com, and let's connect on [LinkedIn](https://www.linkedin.com/in/rohanmathewalex/)!
 
 Happy coding! 🚀
