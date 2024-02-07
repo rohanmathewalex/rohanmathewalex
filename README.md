@@ -1,6 +1,6 @@
 # Hello there! 👋 I'm Rohan Mathew Alex, a Full Stack Developer
 
-As an enthusiastic junior developer, I'm passionate about web development and excited to contribute to innovative projects. Here's a glimpse of what I bring to the table:
+As an enthusiastic Full-stack developer, I'm passionate about web development and excited to contribute to innovative projects. Here's a glimpse of what I bring to the table:
 
 ## Skills and Experience
 - **Languages & Frameworks:** JavaScript (React), HTML, CSS, Express, Nodejs, MongoDB, GraphQl
