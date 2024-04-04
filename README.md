@@ -1,23 +1,29 @@
 # Hello there! 👋 I'm Rohan Mathew Alex, a Full Stack Developer
 
-As an enthusiastic Full-stack developer, I'm passionate about web development and excited to contribute to innovative projects. Here's a glimpse of what I bring to the table:
+As an enthusiastic Full-stack developer with a passion for web development, I thrive on tackling challenges and bringing innovative solutions to life. With a track record of successfully delivering high-quality projects, including developing a dynamic restaurant management  platform using React.js, TypeScript, MongoDB and Node.js, I am excited to contribute my expertise to your team. Whether building scalable web applications, optimizing user experiences, or collaborating with cross-functional teams, I am committed to delivering excellence in every aspect of my work. I'm eager to discuss how my skills and experience align with your needs and contribute to the success of your projects. Please feel free to contact me to explore potential opportunities for which I can help you.
 
 ## Skills and Experience
-- **Languages & Frameworks:** JavaScript (React), HTML, CSS, Express, Nodejs, MongoDB, GraphQl, TypeScript
-- **Tools & Technologies:** Git/GitHub, POSTMAN
 
-### Skills and Technologies
-- **Node.js:** Proficient in building scalable and efficient server-side applications.
-- **Express.js:** Experienced in creating RESTful APIs with Express.js.
-- **React:** Skilled in developing dynamic and responsive user interfaces using React.
-- **TypeScript:** Proficient in using TypeScript to enhance code quality and developer productivity.
-- **AWS:** Familiar with Amazon Web Services (AWS) cloud platform.
-- **EC2:** Experience in deploying and managing applications on Amazon EC2 instances.
-- **Lambda:** Proficient in using AWS Lambda functions for serverless computing.
-- **S3:** Skilled in utilizing Amazon S3 for scalable and secure storage.
-- **Middleware:** Utilize middleware for request processing, authentication, and error handling.
-- **Data Validation:** Implement data validation techniques to ensure data integrity.
-- **Error Handling:** Expertise in handling errors gracefully to enhance application reliability.
+### Languages & Frameworks:
+- **JavaScript (React):** Proficient in building dynamic web applications with React.js, utilizing components, state management, and modern JavaScript ES6+ syntax.
+- **HTML, CSS:** Experienced in creating responsive and visually appealing user interfaces using semantic HTML and CSS frameworks like Bootstrap or Tailwind CSS.
+- **Express, Node.js:** Skilled in developing scalable and efficient server-side applications with Node.js and Express.js, including RESTful API design and implementation.
+- **MongoDB:** Proficient in designing and implementing NoSQL databases with MongoDB, including schema design, querying, and data aggregation.
+- **GraphQL:** Familiar with GraphQL for efficient data querying and manipulation, including schema definition and resolver implementation.
+- **TypeScript:** Proficient in utilizing TypeScript to enhance code quality, type safety, and developer productivity in large-scale projects.
+
+### Tools & Technologies:
+- **Git/GitHub:** Experienced in version control with Git, including branching, merging, and collaborative development workflows using GitHub.
+- **POSTMAN:** Proficient in API testing and development with Postman, including request creation, testing, and documentation.
+
+### Additional Skills:
+- **AWS (Amazon Web Services):** Familiar with AWS cloud platform services, including EC2, Lambda, and S3, for scalable and reliable cloud computing solutions.
+- **EC2:** Experienced in deploying and managing applications on Amazon EC2 instances, ensuring scalability, security, and high availability.
+- **Lambda:** Proficient in utilizing AWS Lambda functions for serverless computing, enabling cost-effective and scalable application architectures.
+- **S3:** Skilled in utilizing Amazon S3 for scalable and secure storage solutions, including static website hosting and data archival.
+- **Middleware:** Experienced in implementing middleware for request processing, authentication, and error handling in Express.js applications.
+- **Data Validation:** Proficient in implementing data validation techniques to ensure data integrity and security in web applications.
+- **Error Handling:** Expertise in handling errors gracefully to enhance application reliability and user experience, including logging, monitoring, and troubleshooting strategies.
 
 ## Projects Showcase
 
