@@ -1,6 +1,6 @@
 # Hello there! 👋 I'm Rohan Mathew Alex, a Full Stack Developer
 
-As an enthusiastic Full-stack developer with a passion for web development, I thrive on tackling challenges and bringing innovative solutions to life. With a track record of successfully delivering high-quality projects, including developing a dynamic restaurant management  platform using React.js, TypeScript, MongoDB and Node.js, I am excited to contribute my expertise to your team. Whether building scalable web applications, optimizing user experiences, or collaborating with cross-functional teams, I am committed to delivering excellence in every aspect of my work. I'm eager to discuss how my skills and experience align with your needs and contribute to the success of your projects. Please feel free to contact me to explore potential opportunities for which I can help you.
+As an enthusiastic Full-stack developer with a passion for web development, I thrive on tackling challenges and bringing innovative solutions to life. With a track record of successfully delivering high-quality projects, including developing a dynamic restaurant management  platform using React.js, TypeScript, MongoDB, and Node.js, I am excited to contribute my expertise to your team. Whether building scalable web applications, optimizing user experiences, or collaborating with cross-functional teams, I am committed to delivering excellence in every aspect of my work. I'm eager to discuss how my skills and experience align with your needs and contribute to the success of your projects. Please feel free to reach out to me to explore potential opportunities that I can help you.
 
 ## Skills and Experience
 
@@ -27,9 +27,9 @@ As an enthusiastic Full-stack developer with a passion for web development, I th
 
 ## Projects Showcase
 
-[JobHive](https://your-demo-url.com](https://github.com/rohanmathewalex/JobHive)
+### [JobHive](https://github.com/rohanmathewalex/JobHive)
  
-[Live Demo](https://your-demo-url.com](https://github.com/rohanmathewalex/JobHive)
+### [Live Demo](https://github.com/rohanmathewalex/JobHive)
 JobHive is a React. js-based web application that simplifies job management by allowing users to add, edit, and delete job listings, leveraging technologies such as React Router, Data Loader, useEffect() and Tailwind CSS to deliver a seamless user experience with responsive design and intuitive navigation.
 
 ### [Ontario Book DriveTest](https://github.com/rohanmathewalex/ontario-book-driveTest)
