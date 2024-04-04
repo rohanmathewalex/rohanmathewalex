@@ -3,11 +3,8 @@
 As an enthusiastic Full-stack developer, I'm passionate about web development and excited to contribute to innovative projects. Here's a glimpse of what I bring to the table:
 
 ## Skills and Experience
-- **Languages & Frameworks:** JavaScript (React), HTML, CSS, Express, Nodejs, MongoDB, GraphQl
+- **Languages & Frameworks:** JavaScript (React), HTML, CSS, Express, Nodejs, MongoDB, GraphQl, TypeScript
 - **Tools & Technologies:** Git/GitHub, POSTMAN
-
-## API Development with Node.js
-I specialize in designing and implementing robust APIs using Node.js. Here's a deeper look at my skills and experience:
 
 ### Skills and Technologies
 - **Node.js:** Proficient in building scalable and efficient server-side applications.
@@ -23,6 +20,12 @@ I specialize in designing and implementing robust APIs using Node.js. Here's a d
 - **Error Handling:** Expertise in handling errors gracefully to enhance application reliability.
 
 ## Projects Showcase
+
+# JobHive
+![JobHive Demo](demo.gif)
+[Live Demo]([https://your-demo-url.com](https://github.com/rohanmathewalex/JobHive))
+JobHive is a React.js-based web application that simplifies job management by allowing users to add, edit, and delete job listings, leveraging technologies such as React Router, Data Loader, useEffect() and Tailwind CSS to deliver a seamless user experience with responsive design and intuitive navigation
+
 ### [Ontario Book DriveTest](https://github.com/rohanmathewalex/ontario-book-driveTest)
 A web app enables users to book g-test date appointments online easily. Tech stack: HTML, CSS, EJS, Node.js, Express, MongoDB.
 
