@@ -27,7 +27,7 @@ As an enthusiastic Full-stack developer with a passion for web development, I th
 
 ## Projects Showcase
 
-### [JobHive](https://your-demo-url.com](https://github.com/rohanmathewalex/JobHive)
+[JobHive](https://your-demo-url.com](https://github.com/rohanmathewalex/JobHive)
  
 [Live Demo](https://your-demo-url.com](https://github.com/rohanmathewalex/JobHive)
 JobHive is a React. js-based web application that simplifies job management by allowing users to add, edit, and delete job listings, leveraging technologies such as React Router, Data Loader, useEffect() and Tailwind CSS to deliver a seamless user experience with responsive design and intuitive navigation.
