@@ -21,7 +21,7 @@ As an enthusiastic Full-stack developer, I'm passionate about web development an
 
 ## Projects Showcase
 
-# JobHive
+### JobHive
 ![JobHive Demo](demo.gif)
 [Live Demo]([https://your-demo-url.com](https://github.com/rohanmathewalex/JobHive))
 JobHive is a React.js-based web application that simplifies job management by allowing users to add, edit, and delete job listings, leveraging technologies such as React Router, Data Loader, useEffect() and Tailwind CSS to deliver a seamless user experience with responsive design and intuitive navigation
@@ -62,10 +62,9 @@ The WhatsApp Ordering Application is an e-commerce website designed and develope
 Forkify is a search app built using ES6 JavaScript. In this app, users get 1000+ recipes. The feature currently built is that the use can search for recipes and ADD the ingredients into the shopping cart. Also, users can add recipes to their favorites.
 
 ## Certification
-- IBM Online - IBM Full Stack Developer Certification (In Progress)
+- IBM Online - IBM Full Stack software Developer Certification 
 
-## Learning and Development
-I actively engage in ongoing learning through courses, workshops, and hands-on projects. I'm eager to enhance my skills and contribute meaningfully to collaborative development environments.
+ 
 
 ## Major Achievements
 ### [DineDirect](http://dinedirect.in/)
