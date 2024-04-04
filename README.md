@@ -27,10 +27,10 @@ As an enthusiastic Full-stack developer with a passion for web development, I th
 
 ## Projects Showcase
 
-### JobHive
-![JobHive Demo](demo.gif)
-[Live Demo]([https://your-demo-url.com](https://github.com/rohanmathewalex/JobHive))
-JobHive is a React.js-based web application that simplifies job management by allowing users to add, edit, and delete job listings, leveraging technologies such as React Router, Data Loader, useEffect() and Tailwind CSS to deliver a seamless user experience with responsive design and intuitive navigation
+### [JobHive](https://your-demo-url.com](https://github.com/rohanmathewalex/JobHive)
+ 
+[Live Demo](https://your-demo-url.com](https://github.com/rohanmathewalex/JobHive)
+JobHive is a React. js-based web application that simplifies job management by allowing users to add, edit, and delete job listings, leveraging technologies such as React Router, Data Loader, useEffect() and Tailwind CSS to deliver a seamless user experience with responsive design and intuitive navigation.
 
 ### [Ontario Book DriveTest](https://github.com/rohanmathewalex/ontario-book-driveTest)
 A web app enables users to book g-test date appointments online easily. Tech stack: HTML, CSS, EJS, Node.js, Express, MongoDB.
