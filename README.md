@@ -57,6 +57,6 @@ Contributed to the development of DineDirect, enhancing user experience with sea
 - [Regaincare](https://regaincare.co.uk/), [Zielteq](https://zielteq.com/), [Axel Cruz Exports](https://www.axelcruzexports.com/), [GreenX UAE](https://greenxuae.com/), [Goldstar Eagle](https://goldstareagle.com), [Richmonds](https://www.richmonds.in/), [MEDIAGOD](https://www.mediagod.in/), [T3 Adventz](https://t3adventz.com/), [Boosraexim](https://boosraexim.com/), [SOULFUL PERFUMERY](http://www.soulfulperfumery.com/), [LocalHiveProject](https://localhiveproject.com/)
 
 ## Let's Connect!
-I'm dedicated to crafting efficient and user-centric web applications using the MERN stack and modern technologies. If you're looking for a versatile developer with a passion for delivering excellence, let's connect and discuss how I can contribute to your projects. Contact me at iamrohanmathewalex@gmail.com, and let's connect on [LinkedIn](https://www.linkedin.com/in/rohanmathewalex/)!
+I'm dedicated to crafting efficient and user-centric web applications using the MERN stack and modern technologies. If you're looking for a versatile developer passionate about delivering excellence, I'd like to talk with you about how I can contribute to your projects. Contact me at iamrohanmathewalex@gmail.com, and let's connect on [LinkedIn](https://www.linkedin.com/in/rohanmathewalex/)!
 
 Happy coding! 🚀
