@@ -1,71 +1,123 @@
+# 👋 Hi, I'm Rohan Mathew Alex  
 
-# Hi there! 👋 I'm Rohan Mathew Alex, a Full Stack Developer
+🚀 **Full Stack Developer | Frontend | Backend | Node.js | AI-Powered Applications**  
 
-As a full-stack developer passionate about solving complex problems, I specialize in building scalable web applications with modern technologies. My experience spans across AI-powered tools, dynamic platforms, and robust backend systems, bringing innovative solutions to life.
+I specialize in **building scalable, high-performance web applications** and integrating AI to enhance user experiences. With hands-on expertise in **React, Node.js, Next.js, Firebase, AWS (EC2, S3), and OpenAI**, I have successfully delivered projects that optimize efficiency, improve user engagement, and drive innovation.  
 
-## 🔧 Skills and Experience
+---
 
-### Languages & Frameworks:
-- **JavaScript (React, Node.js):** Expertise in building dynamic, responsive web applications with React.js and Node.js, utilizing modern JavaScript (ES6+) and TypeScript for high-performance solutions.
-- **HTML & CSS (Responsive UI):** Proficient in creating accessible and visually appealing user interfaces with semantic HTML and CSS frameworks like Bootstrap and Tailwind CSS.
-- **Express & MongoDB:** Skilled in designing and implementing RESTful APIs, middleware, and NoSQL databases with MongoDB for scalable and secure backend systems.
-- **GraphQL:** Experience with GraphQL for efficient querying and mutation of data, building flexible and robust APIs.
+## ⚡ Tech Stack & Skills
+- **Frontend:** React, Next.js, TypeScript, Material-UI, Tailwind CSS  
+- **Backend:** Node.js, Express.js, GraphQL, Zod  
+- **Databases:** MongoDB, Firebase, PostgreSQL  
+- **Cloud & DevOps:** AWS (EC2, S3, Lambda), Vercel, GitHub Actions  
+- **AI & Machine Learning:** OpenAI, Langchain, Google AI APIs  
+- **Version Control & Collaboration:** Git, GitHub, Jira, Postman  
 
-### Tools & Technologies:
-- **Cloud & DevOps:** Hands-on experience with **AWS (EC2, Lambda, S3)** and **Vercel**, ensuring high availability, performance, and security.
-- **Version Control & Collaboration:** Proficient in using **Git/GitHub** for collaborative development, including branching, merging, and pull requests for effective teamwork.
-- **API Development & Testing:** Adept at API development with **Postman** for testing, debugging, and optimizing web services.
+---
 
-### Additional Skills:
-- **AI Integration (OpenAI, Langchain):** Experience integrating AI-powered tools using OpenAI, Langchain, and Google Cloud services for intelligent automation and enhanced user experiences.
-- **Middleware & Error Handling:** Proficient in building middleware for authentication, request handling, and robust error handling for seamless web applications.
+# 🔥 Featured AI-Powered Projects  
 
-## 📂 Featured  AI Projects
+### **[BrioAI](https://github.com/rohanmathewalex/BrioAI) | Google Chrome AI Challenge**  
+✅ **AI-powered content assistant** leveraging Chrome’s built-in AI APIs.  
+- Summarizes long text into concise, structured insights.  
+- Generates **intelligent AI-driven prompts** based on user input.  
+- Enhances content with **real-time rewriting and reframing**.  
+- Detects **multiple languages** for seamless communication.  
 
-- **[SlateMind AI](https://github.com/rohanmathewalex/slatemind-ai):** An AI-powered platform for generating flashcards from complex study materials, improving retention by 35%. Built with **OpenAI** and **Langchain**, deployed on **Vercel**.[Watch Demo](https://slatemindai.com/)
-- **[SupportSynth](https://github.com/rohanmathewalex/Supportsynth):** AI-driven chat application that provides intelligent customer support responses, built with **Node.js**, **MongoDB**, and **OpenAI**, improving response accuracy by 45%.[Watch DEMO](https://www.linkedin.com/feed/update/urn:li:activity:7229175052250861569/)
-- - **[FlashMind](https://github.com/rohanmathewalex/flashcards-ai):** AI-powered flashcard generator with payment integration using **Stripe**, helping users study more efficiently by tracking progress over time.[Watch Demo](https://www.linkedin.com/feed/update/urn:li:activity:7231448235217707008/)
-- - ** [AI Pantry Tracker](https://github.com/rohanmathewalex/pantry-tracker): ** An AI-powered application that helps you manage your pantry items and find recipe recommendations based on the ingredients you have. This project leverages Next.js, Firebase, Material-UI, and OpenAI API to deliver a seamless user experience. Deployed on Vercel and utilizing GitHub Actions for CI/CD, it is a modern solution to streamline pantry management and meal planning. [Watch Demo](https://www.linkedin.com/feed/update/urn:li:activity:7225937998914146304/)
-- -  **[PalmTalk](https://github.com/rohanmathewalex/PalmTalk):** Implemented a chatbot powered by **Google PaLM 2 Bison** for natural language conversations, providing personalized user experiences.
-- - ** [Rate My Professor Support Agent](https://github.com/rohanmathewalex/ClassPick) (AI-Powered Recommendation System)[DEMO](https://class-pick.vercel.app/) [Watch Here](https://www.linkedin.com/feed/update/urn:li:activity:7235864888160493570/)
-- Built an AI-powered tool for personalized professor recommendations, incorporating **OpenAI** and **Pinecone** for sentiment analysis and intelligent data retrieval.[github](https://github.com/rohanmathewalex/ClassPick)
+🎥 [Watch Demo](https://www.linkedin.com/feed/update/urn:li:activity:7269857673280413696/) | 🔗 [Live Link](https://lnkd.in/gtyaVkU3) | 💻 [GitHub](https://lnkd.in/gfhg_kGg)  
 
-### Web Development Projects:
-- **[Household Haven](https://github.com/rohanmathewalex/Household-Haven):** Restructured a monolithic Node.js application to a microservices architecture, significantly improving scalability and maintainability.
+---
 
-## 🏆 Major Achievements
+### **[SlateMind AI](https://github.com/rohanmathewalex/slatemind-ai) | AI-Powered Learning Tool**  
+✅ **Transforms complex study materials into interactive flashcards.**  
+- Uses **OpenAI and Langchain** to generate dynamic, personalized content.  
+- Improves knowledge retention by **35%**.  
+- Features **multi-language support** and adaptive study recommendations.  
+🔗 [Live Demo](https://slatemindai.com/)  
 
-### DineDirect (Online Food Ordering Platform)
-- Developed RESTful APIs and enhanced the user experience with payment integration using **React**, **Node.js**, and **MongoDB**, leading to a 20% increase in customer engagement.
+---
 
-## 💻 Work Experience
+### **[SupportSynth](https://github.com/rohanmathewalex/Supportsynth) | AI Chatbot for Customer Support**  
+✅ **Built an AI-driven chatbot** for **automated customer support.**  
+- Developed with **Node.js, MongoDB, and OpenAI**, reducing response time by **45%**.  
+- Implemented **RAG (Retrieval-Augmented Generation)** for more accurate responses.  
+- Designed **secure user authentication** with JWT-based session management.  
+🎥 [Watch Demo](https://www.linkedin.com/feed/update/urn:li:activity:7229175052250861569/)  
 
-### **Headstarter AI** (Remote)  
-**Software Engineering Fellow** | **Jul 2024 – Present**  
-- Built AI-powered full-stack applications, improving response accuracy by 35% and reducing response time by 20%.  
-- Developed AI-driven chat systems using **OpenAI** and **Node.js**, enhancing customer support by 45%.
+---
 
-### [MEDIAGOD](https://www.mediagod.in/) - Kochi, India  
-**Web Developer** | **Nov 2021 – Dec 2022**  
-- Designed and developed scalable web applications using **React.js**, improving performance by 25%.  
-- Integrated payment gateways like **Stripe** and **PayPal**, increasing successful transactions by 20%.
+### **[FlashMind](https://github.com/rohanmathewalex/flashcards-ai) | AI-Powered Flashcards with Stripe**  
+✅ **AI-generated flashcards with built-in payment integration.**  
+- Developed with **Next.js, Firebase, and OpenAI** for real-time learning analytics.  
+- Tracks **user progress and study patterns** for tailored recommendations.  
+- Integrated **Stripe payment system** for monetization.  
+🎥 [Watch Demo](https://www.linkedin.com/feed/update/urn:li:activity:7231448235217707008/)  
 
-### T3 Adventz - Malappuram, India  
-**Junior Web Developer** | **Jul 2020 – Aug 2021**  
-- Spearheaded full-stack development projects using **React.js** and **Node.js**, enhancing user experience and performance by optimizing code.
+---
 
-## 📜 Certifications
-- **IBM Full Stack Developer Professional Certificate**
+### **[Rate My Professor Support Agent](https://github.com/rohanmathewalex/ClassPick) | AI-Powered Professor Recommendation System**  
+✅ **Intelligent professor selection tool using OpenAI & Pinecone.**  
+- **Automates sentiment analysis** to rank professors based on student feedback.  
+- Features **personalized recommendations** using **AI-powered data retrieval.**  
+🔗 [Live Demo](https://class-pick.vercel.app/) | 🎥 [Watch Here](https://www.linkedin.com/feed/update/urn:li:activity:7235864888160493570/)  
 
-## 🌍 Freelance Projects
-Worked with clients such as [Old Town Butcher Canada](https://oldtownbutcher.ca/)
-[Regaincare](https://regaincare.co.uk/),
-[Axel Cruz Exports](https://www.axelcruzexports.com/), and [GreenX UAE](https://greenxuae.com/), delivering high-quality websites and web apps.
+---
 
-## 🤝 Let’s Connect!
+# 🏆 Hackathon Experience: Google Chrome AI Challenge  
+✅ **Solo Developer in a Global Competition** | Built **BrioAI** in record time.  
+- Developed a full-stack **AI-powered web application** using **Chrome’s AI APIs**.  
+- Overcame **deployment issues, debugging errors, and API limitations.**  
+- Gained **deep expertise in AI-powered tools** and scalable architecture.  
 
-If you’re looking for a full-stack developer with a passion for building innovative web applications using modern technologies like **React**, **Node.js**, and **OpenAI**, feel free to reach out.  
-📧 Email: **rohanmathewalex6674@gmail.com**  
-[LinkedIn](https://www.linkedin.com/in/rohanmathewalex/) | [GitHub](https://github.com/rohanmathewalex)
+🎥 **[Watch My Journey](https://www.linkedin.com/feed/update/urn:li:activity:7269857673280413696/)**  
 
-Happy coding! 🚀
+---
+
+# 💼 Work Experience  
+
+### **Headstarter AI (Remote) | Software Engineering Fellow**  
+🗓️ **Jul 2024 – Present**  
+- **Designed and built AI-powered SaaS applications**, reducing system downtime by **30%**.  
+- Developed **real-time AI-driven chat systems** using OpenAI & Node.js, enhancing user engagement by **45%**.  
+- Integrated **vector databases (Pinecone) for RAG-based AI responses**, improving accuracy by **40%**.  
+
+---
+
+### **MEDIAGOD – Kochi, India | Web Developer**  
+🗓️ **Nov 2021 – Dec 2022**  
+- **Built scalable React.js applications**, increasing performance efficiency by **25%**.  
+- Integrated **Stripe & PayPal payment systems**, boosting transaction success rates by **20%**.  
+- Designed **mobile-responsive UI/UX components** with **Material-UI & Tailwind CSS**.  
+
+---
+
+### **T3 Adventz – Malappuram, India | Junior Web Developer**  
+🗓️ **Jul 2020 – Aug 2021**  
+- Developed and maintained full-stack **React & Node.js** applications.  
+- Implemented **secure authentication & role-based access control**, reducing unauthorized access by **50%**.  
+- Optimized database queries, decreasing response time by **40%**.  
+
+---
+
+# 🌍 Freelance & Open-Source Contributions  
+- **[Old Town Butcher Canada](https://oldtownbutcher.ca/)** – Built a **high-conversion landing page** with **SEO optimization.**  
+- **[RegainCare UK](https://regaincare.co.uk/)** – Developed a **scalable web application** for medical professionals.  
+- **[Axel Cruz Exports](https://www.axelcruzexports.com/)** – Designed a **modern e-commerce storefront.**  
+- **[GreenX UAE](https://greenxuae.com/)** – Created a **sustainability-focused online platform.**  
+
+---
+
+# 📜 Certifications  
+✅ **IBM Full Stack Developer Professional Certificate**  
+✅ **Google Chrome AI Challenge Participant**  
+
+---
+
+# 📢 Let’s Connect!  
+Looking for a **Full Stack Developer (Frontend, Backend, Node.js) with expertise in AI-powered applications, cloud deployments, and scalable web platforms**? Let’s chat!  
+
+📧 **Email:** rohanmathewalex6674@gmail.com  
+🔗 **[LinkedIn](https://www.linkedin.com/in/rohanmathewalex/)** | 💻 **[GitHub](https://github.com/rohanmathewalex)**  
+
+🚀 **Ready to innovate and build impactful solutions!**  
