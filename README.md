@@ -118,6 +118,6 @@ I specialize in **building scalable, high-performance web applications** and int
 Looking for a **Full Stack Developer (Frontend, Backend, Node.js) with expertise in AI-powered applications, cloud deployments, and scalable web platforms**? Let’s chat!  
 
 📧 **Email:** rohanmathewalex6674@gmail.com  
-🔗 **[LinkedIn](https://www.linkedin.com/in/rohanmathewalex/)** | 💻 **[GitHub](https://github.com/rohanmathewalex)**  
+🔗 **[LinkedIn](https://www.linkedin.com/in/rohanmathewalex/)** | 💻 **[GitHub](https://github.com/rohanmathewalex)**  **[Portfolio](https://rohanmathewalex.vercel.app/#)**
 
 🚀 **Ready to innovate and build impactful solutions!**  
