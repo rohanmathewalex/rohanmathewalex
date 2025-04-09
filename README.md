@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rohan Mathew Alex  --> Buidling [Revloope](www.revloope.com)
+# 👋 Hi, I'm Rohan Mathew Alex  --> Building [Revloope](www.revloope.com)
 
 🚀 **Full Stack Developer | Frontend | Backend | Node.js | AI-Powered Applications**  
 
